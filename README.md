@@ -1,2 +1,5 @@
 # invoicer-lite
-lightweight verison
+===
+lightweight verison of Invoicer. Gutting bloat. Makin' it sexy.
+
+
