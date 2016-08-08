@@ -6,7 +6,7 @@ let win;
 function createWindow() {
   win = new BrowserWindow({width:800, height: 600})
   //load index.html on start
-  win.loadURL(`file://${__dirname}/index.html`)
+  win.loadURL(`file://${__dirname}/dist/index.html`)
 
   //open devtools on start
   win.webContents.openDevTools()
